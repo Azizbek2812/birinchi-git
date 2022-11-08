@@ -1,0 +1,234 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+  background-color: rgb(29, 32, 34);  
+}
+.container{
+    margin-top: 70px;
+    margin-left: 150px;
+    margin-bottom: 40px;
+}
+.box1
+{
+    background-color: white;
+    width: 200px;
+    height: 350px;
+    border-radius: 15px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+img {
+    border-radius: 15px 15px 0 0;
+}
+
+.daysago
+{
+    color: crimson;
+    margin-left: 60px;
+}
+
+
+.lorem {
+    width: 200px;
+    padding: 4px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.img1btm 
+{
+background-color: crimson;
+color:white;
+display: inline-block;
+width: 100%;
+border-radius: 0px 0px 15px 15px;
+}
+
+h2
+{
+    text-align: center;
+}
+
+.div-1 {
+    text-align: center;
+    font-size: 12px;
+    display: inline-block;
+    width: 32%;
+    height: 65px;
+    border-right: 1px solid black;
+    vertical-align: middle;
+}
+
+
+.div-2 {
+    text-align: center;
+    font-size: 12px;
+    display: inline-block;
+    width: 32%;
+    height: 65px;
+    border-right: 1px solid black;
+    vertical-align: middle;
+}
+
+.div-3 {
+    text-align: center;
+    font-size: 12px;
+    display: inline-block;
+    width: 31%;
+    height: 65px;
+    vertical-align: middle;
+}
+
+  .box2
+{
+    background-color: white;
+    width: 250px;
+    height: 400px;
+    border-radius: 15px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+img {
+    border-radius: 15px 15px 0 0;
+}
+
+.weekago
+{
+    color: orange;
+    margin-left: 90px;
+}
+
+
+.lorem1 {
+    width: 200px;
+    padding: 4px;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 25px;
+    
+}
+
+.img2btm 
+{
+background-color: orangered;
+color:white;
+display: inline-block;
+width: 100%;
+border-radius: 0px 0px 15px 15px;
+}
+
+h2
+{
+    text-align: center;
+}
+
+.div-1 {
+    text-align: center;
+    font-size: 12px;
+    display: inline-block;
+    width: 32%;
+    height: 65px;
+    border-right: 1px solid black;
+    vertical-align: middle;
+}
+
+
+.div-2 {
+    text-align: center;
+    font-size: 12px;
+    display: inline-block;
+    width: 32%;
+    height: 65px;
+    border-right: 1px solid black;
+    vertical-align: middle;
+}
+
+.div-3 {
+    text-align: center;
+    font-size: 12px;
+    display: inline-block;
+    width: 31%;
+    height: 65px;
+    vertical-align: middle;
+}
+
+.box3
+{
+    background-color: white;
+    width: 200px;
+    height: 350px;
+    border-radius: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+img {
+    border-radius: 15px 15px 0 0;
+}
+
+.weekago3
+{
+    color: green;
+    margin-left: 60px;
+}
+
+
+.lorem {
+    width: 200px;
+    padding: 4px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.img3btm 
+{
+background-color: green;
+color:white;
+display: inline-block;
+width: 100%;
+border-radius: 0px 0px 15px 15px;
+}
+
+h2
+{
+    text-align: center;
+}
+
+.div-1 {
+    text-align: center;
+    font-size: 12px;
+    display: inline-block;
+    width: 32%;
+    height: 65px;
+    border-right: 1px solid black;
+    vertical-align: middle;
+}
+
+
+.div-2 {
+    text-align: center;
+    font-size: 12px;
+    display: inline-block;
+    width: 32%;
+    height: 65px;
+    border-right: 1px solid black;
+    vertical-align: middle;
+}
+
+.div-3 {
+    text-align: center;
+    font-size: 12px;
+    display: inline-block;
+    width: 31%;
+    height: 65px;
+    vertical-align: middle;
+}
